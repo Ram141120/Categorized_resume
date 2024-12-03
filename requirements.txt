@@ -1,8 +1,5 @@
 streamlit
 numpy
 pandas
-pypdf
-seaborn
-re
-sklearn
+
 
